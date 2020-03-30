@@ -4,9 +4,8 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes"
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "gr-GR"
@@ -65,7 +64,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://eftichiafarmaki.github.io"
+  home             : "https://eftichiafarmaki.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
