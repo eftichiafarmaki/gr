@@ -17,11 +17,12 @@ tags:
   - B programming language
 gallery:
   - image_url: /images/ken-thompson.png
-    caption: ""
+    caption: "H ευφυΐα του αποδείχθηκε στο «Bell Labs», όταν ανέπτυξε το λειτουργικό σύστημα UNIX, ένα από τα θεμέλια σύγχρονη πληροφορική."
   - image_url: /images/belle.jpg
     caption: "ο Thompson δημιούργησε ένα πρόγραμμα σκακιού για την πρώτη έκδοση του «Unix». Αργότερα, συνεργάστηκε με συναδέλφους επιστήμονες υπολογιστών στο «Bell Labs», για να γράψει το παγκόσμιο πρωταθλιτικό πρόγραμμα σκακιού υπολογιστή, «Belle». Το «Belle» αργότερα δωρίστηκε στο «Smithsonian», το μεγαλύτερο μουσείο και ερευνητικό συγκρότημα στον κόσμο."
   - image_url: /images/unix.jpg
     caption: "I think the major good idea in UNIX was its clean and simple interface: open, close, read, and write"
+---
 
 {% include bio-kay.md %}
 
