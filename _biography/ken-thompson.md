@@ -26,4 +26,4 @@ gallery:
 
 {% include bio-thompson.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Ken Thompson" %}
+{% include slides.html %}
