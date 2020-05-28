@@ -24,6 +24,6 @@ gallery:
     caption: "I think the major good idea in UNIX was its clean and simple interface: open, close, read, and write"
 ---
 
-{% include bio-thompson.md %}
+{% include_relative bio-thompson.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Ken Thompson" %}
