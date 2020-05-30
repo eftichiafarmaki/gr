@@ -1,7 +1,7 @@
 ---
 author: eftichiafarmaki
 title: "Ken Thompson"
-image_url: /images/ken-thompson.jpg
+image_url: /images/thompson.jpg
 caption: "H ευφυΐα του αποδείχθηκε στο «Bell Labs», όταν ανέπτυξε το λειτουργικό σύστημα UNIX, ένα από τα θεμέλια σύγχρονη πληροφορική."
 categories:
   - biography
